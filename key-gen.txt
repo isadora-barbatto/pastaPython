@@ -1,0 +1,19 @@
+The key fingerprint is:
+SHA256:98dS//JjmEu/chSmCsARkLTcdPs+1hK7DvftqoeFMnM isadorabarbatto@gmail.com
+
+The key's randomart image is:
++--[ED25519 256]--+
+|    .ooo..       |
+|    ..+.. .      |
+|     o....       |
+|       o  .    o |
+|        S .o. + .|
+|         *.E+= o |
+|         .*B*o* .|
+|          +o*B++.|
+|          .+o+BB=|
++----[SHA256]-----+
+
+id_ed25519
+
+
